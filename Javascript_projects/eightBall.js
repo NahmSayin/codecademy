@@ -1,5 +1,5 @@
 // Magic Eight Ball
-let userName = ''
+const userName = ''
 
 userName ? console.log(`Hello, ${userName}!`) : console.log('Hello!');
 
